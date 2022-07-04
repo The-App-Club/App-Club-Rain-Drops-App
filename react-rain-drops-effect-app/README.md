@@ -1,0 +1,5 @@
+- Reference
+  - [react-rain-animation](https://github.com/willnickerson/react-rain-animation)
+  - [css rain](https://codepen.io/aureliendotpro/pen/kVwyVe)
+  - [raindrops](https://daniellakh.com/raindrops/)
+  - [make-a-splash-with-dynamic-2d-water-effects--gamedev](https://gamedevelopment.tutsplus.com/tutorials/make-a-splash-with-dynamic-2d-water-effects--gamedev-236)

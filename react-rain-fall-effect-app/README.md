@@ -1,0 +1,4 @@
+- Reference
+  - [react-rain-animation](https://github.com/willnickerson/react-rain-animation)
+  - [css rain](https://codepen.io/aureliendotpro/pen/kVwyVe)
+  - [raindrops](https://daniellakh.com/raindrops/)
