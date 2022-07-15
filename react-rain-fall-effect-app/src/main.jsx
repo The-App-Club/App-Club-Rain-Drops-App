@@ -5,7 +5,8 @@ import {samples, interpolate, formatHex} from 'culori';
 
 import '@fontsource/inter';
 import './styles/index.scss';
-import {Rain} from './components/Rain';
+// import {Rain} from './components/Rain';
+import {Rain} from './components/Rain2';
 
 const App = () => {
   return <Rain numDrops={30} />;
